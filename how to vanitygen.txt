@@ -1,4 +1,6 @@
-README.md
+I did not make this or edit it, I simply packed it into a .zip file for easy downloading on linux - famousm1
+
+"README.md
 Vanitygen PLUS!
 Download the latest binary from: https://github.com/exploitagency/vanitygen-plus/releases !
 
@@ -241,4 +243,4 @@ YAC	Yacoin	Y
 YTN	Yenten	Y
 ZNY	BitZeny	Z
 ZOOM	Zoom coin	i
-ZRC	Ziftrcoin	Z
+ZRC	Ziftrcoin	Z"
